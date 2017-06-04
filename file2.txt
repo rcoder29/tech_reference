@@ -3,3 +3,5 @@ file2.txt
 added in local repository after clone and attempt to check in into remote git
 
 local change to handle conflict
+
+remote change to produce conflict
