@@ -1,0 +1,42 @@
+** List of Topics to get upto speed on Tech **
+
+* Presentation & Designs
+ms ppt
+ms word
+ms visio
+
+* Project Management Tools
+Jira
+Scrum boards
+
+* Security Tools
+Black Duck
+Static Scan Plugin
+
+* Continuous Integration
+Jenkins
+Sonar Cube
+automated deployment
+
+* Scheduler
+Autosys
+Control M
+
+* ETL
+Informatica
+
+* Languages
+Java 
+Python
+Scripting
+ 
+* DB Tools
+SQL Server Developer Studio
+Toad
+
+* Technology Trends to Follow
+Machine Learning, NLP, Deep learning
+Big Data
+Docker
+Serverless programming
+Java Functional Programming
