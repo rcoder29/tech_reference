@@ -1,0 +1,3 @@
+file2.txt
+
+added in local repository after clone and attempt to check in into remote git
