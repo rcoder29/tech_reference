@@ -1,3 +1,5 @@
 file1.txt
 
 initial version added
+
+incremental changes to file1 through branch1
