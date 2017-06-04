@@ -1,0 +1,24 @@
+You Tube videos on GIT learning with eclispe
+
+git basic concepts - 
+https://www.youtube.com/watch?v=8KCQe9Pm1kg
+
+egit tutorial - 
+https://www.youtube.com/watch?v=U1kXlahkwd4&t=242s
+
+using github with eclipse and creating a repo - 
+https://www.youtube.com/watch?v=cdsMIX9gB94
+
+checkout an existing project
+https://www.youtube.com/watch?v=V42r5REJx-M
+
+making changes to git modules -
+https://www.youtube.com/watch?v=rblGZRWqFVI
+
+remote git server & merging - 
+https://www.youtube.com/watch?v=KfeqnernMmE
+
+git branching & merging strategies
+https://www.youtube.com/watch?v=to6tIdy5rNc
+
+
