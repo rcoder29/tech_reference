@@ -48,5 +48,8 @@ No SQL, Mongo db, casandra
 websockets
 Kafka
 
-AngularJS
+AngularJSA
 
+Apache Spark
+
+Selenium
