@@ -3,3 +3,5 @@ file1.txt
 initial version added
 
 incremental changes to file1 through branch1
+
+branch 12 created out of branch1 to do a patch fix
