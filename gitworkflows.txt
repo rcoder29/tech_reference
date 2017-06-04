@@ -1,0 +1,17 @@
+* Create a new project locally and push to create new repo
+
+* clone project from repository , existings
+
+* create local feature branch and make changes, merge to local master and push to remote
+
+* remove local branches
+
+* merge changes while pushing changes to remote, reject, fetch files and merge with remote master and then push remote
+
+* linking local branches to workspaces, switch between different branches
+
+* add files, commit changes to local, remove files, commit changes etc.,
+
+* Release tagging, on master in remote
+
+* understanding the visuals of the commit history, branch linking view etc.,

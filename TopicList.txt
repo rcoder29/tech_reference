@@ -36,7 +36,17 @@ Toad
 
 * Technology Trends to Follow
 Machine Learning, NLP, Deep learning
-Big Data
+Big Data, Hadoop
 Docker
 Serverless programming
 Java Functional Programming
+micro services
+cloud deployments
+Amazon web services
+Azure services platform
+No SQL, Mongo db, casandra
+websockets
+Kafka
+
+AngularJS
+
